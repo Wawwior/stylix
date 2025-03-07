@@ -60,6 +60,12 @@
     # Interface flake systems.
     systems.url = "github:nix-systems/default";
 
+    tinted-terminal = {
+      flake = false;
+
+      url = "github:wawwior/tinted-terminal";
+    };
+
     tinted-foot = {
       flake = false;
 
@@ -81,12 +87,6 @@
     tinted-tmux = {
       flake = false;
       url = "github:tinted-theming/tinted-tmux";
-    };
-
-    tinted-kitty = {
-      flake = false;
-
-      url = "github:wawwior/tinted-kitty";
     };
 
     tinted-schemes = {

@@ -291,8 +291,8 @@
         "nur": "nur",
         "systems": "systems",
         "tinted-foot": "tinted-foot",
-        "tinted-kitty": "tinted-kitty",
         "tinted-schemes": "tinted-schemes",
+        "tinted-terminal": "tinted-terminal",
         "tinted-tmux": "tinted-tmux",
         "tinted-zed": "tinted-zed"
       }
@@ -329,22 +329,6 @@
         "type": "github"
       }
     },
-    "tinted-kitty": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1741354904,
-        "narHash": "sha256-eBLUqkDVQGHY679eRtEcvtpXr0xzGHMD0FgeAo2pVbc=",
-        "owner": "wawwior",
-        "repo": "tinted-kitty",
-        "rev": "62f1e102a93fe1a115ef1149fb2cb762fa9e4476",
-        "type": "github"
-      },
-      "original": {
-        "owner": "wawwior",
-        "repo": "tinted-kitty",
-        "type": "github"
-      }
-    },
     "tinted-schemes": {
       "flake": false,
       "locked": {
@@ -358,6 +342,22 @@
       "original": {
         "owner": "tinted-theming",
         "repo": "schemes",
+        "type": "github"
+      }
+    },
+    "tinted-terminal": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1741355918,
+        "narHash": "sha256-6Zm2+wHBGoplhGvQiqh21j/NWDczALlfM84RmU8CQbg=",
+        "owner": "wawwior",
+        "repo": "tinted-terminal",
+        "rev": "3e9e8725216986fe64178b0dac1d3455d65e774e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "wawwior",
+        "repo": "tinted-terminal",
         "type": "github"
       }
     },
