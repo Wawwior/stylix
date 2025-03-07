@@ -332,16 +332,16 @@
     "tinted-kitty": {
       "flake": false,
       "locked": {
-        "lastModified": 1740876866,
-        "narHash": "sha256-RQtP3kP+JdHdP8st9hHhXZYXI1b3NVPX8aprdE2Pxpc=",
-        "owner": "tinted-theming",
-        "repo": "tinted-terminal",
-        "rev": "58f9cdb07de4831f8247135b63b774da6c38f7cf",
+        "lastModified": 1741354904,
+        "narHash": "sha256-eBLUqkDVQGHY679eRtEcvtpXr0xzGHMD0FgeAo2pVbc=",
+        "owner": "wawwior",
+        "repo": "tinted-kitty",
+        "rev": "62f1e102a93fe1a115ef1149fb2cb762fa9e4476",
         "type": "github"
       },
       "original": {
-        "owner": "tinted-theming",
-        "repo": "tinted-terminal",
+        "owner": "wawwior",
+        "repo": "tinted-kitty",
         "type": "github"
       }
     },

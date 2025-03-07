@@ -86,7 +86,7 @@
     tinted-kitty = {
       flake = false;
 
-      url = "github:tinted-theming/tinted-terminal";
+      url = "github:wawwior/tinted-kitty";
     };
 
     tinted-schemes = {
