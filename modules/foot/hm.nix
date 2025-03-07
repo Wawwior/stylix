@@ -4,7 +4,8 @@ let
   cfg = config.stylix.targets.foot;
 
   theme = config.lib.stylix.colors {
-    templateRepo = config.lib.stylix.templates.tinted-foot;
+    templateRepo = config.lib.stylix.templates.tinted-terminal;
+    target = "foot-base24";
   };
 
 in

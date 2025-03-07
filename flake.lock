@@ -290,7 +290,6 @@
         "nixpkgs": "nixpkgs",
         "nur": "nur",
         "systems": "systems",
-        "tinted-foot": "tinted-foot",
         "tinted-schemes": "tinted-schemes",
         "tinted-terminal": "tinted-terminal",
         "tinted-tmux": "tinted-tmux",
@@ -309,23 +308,6 @@
       "original": {
         "owner": "nix-systems",
         "repo": "default",
-        "type": "github"
-      }
-    },
-    "tinted-foot": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1726913040,
-        "narHash": "sha256-+eDZPkw7efMNUf3/Pv0EmsidqdwNJ1TaOum6k7lngDQ=",
-        "owner": "tinted-theming",
-        "repo": "tinted-foot",
-        "rev": "fd1b924b6c45c3e4465e8a849e67ea82933fcbe4",
-        "type": "github"
-      },
-      "original": {
-        "owner": "tinted-theming",
-        "repo": "tinted-foot",
-        "rev": "fd1b924b6c45c3e4465e8a849e67ea82933fcbe4",
         "type": "github"
       }
     },
@@ -348,11 +330,11 @@
     "tinted-terminal": {
       "flake": false,
       "locked": {
-        "lastModified": 1741355918,
-        "narHash": "sha256-6Zm2+wHBGoplhGvQiqh21j/NWDczALlfM84RmU8CQbg=",
+        "lastModified": 1741356557,
+        "narHash": "sha256-7bIl5wMflXy4q5Eh59Wx+hpW406r+qF6fGResKZVcrw=",
         "owner": "wawwior",
         "repo": "tinted-terminal",
-        "rev": "3e9e8725216986fe64178b0dac1d3455d65e774e",
+        "rev": "62afc41ea2f77d3d09be4f518e0d4b3f7c16e74e",
         "type": "github"
       },
       "original": {
